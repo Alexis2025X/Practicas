@@ -13,7 +13,8 @@
         android:theme="@style/Theme.GitPracticas"
         tools:targetApi="31">
         <activity
-            android:name=".cambiosgit"
+            android:name=".Paranguamicutirimicuaro"
+            android:name=".HolaMundo"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
